@@ -1,4 +1,4 @@
-DirtyAOSP (MSM8974)
+#DirtyAOSP (MSM8974)
 ========
 
 To initialize your local repository, use this command:
