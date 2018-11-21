@@ -7,6 +7,9 @@
   <remote  name="DirtyAOSP"
            fetch="https://github.com/DirtyAOSP" />
 
+    <remote  name="gzosp"
+           fetch="https://github.com/GZOSP" />
+  
   <default revision="9.0"
            remote="DirtyAOSP"
            sync-f="true"
